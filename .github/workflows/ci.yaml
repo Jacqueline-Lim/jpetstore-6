@@ -49,7 +49,7 @@ jobs:
             target/site/surefire-report.html
             target/site/failsafe-report.html
             target/failsafe-reports
-            target/surefire-repoorts
+            target/surefire-reports
 
   docker-deploy:
     runs-on: ubuntu-latest
